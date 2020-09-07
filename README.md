@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there 👋 
 
-<!--
-**mshambharkar/mshambharkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am C#.Net developer
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on       : 
+    - Setting up github profile 
+- 🌱 I’m currently learning         : 
+    - Azure 
+    - Developing apps for container and cloud first
+    - Algorithms and Datastructures
+    - Rust (eventually -slow paced)
+- 👯 I’m looking to collaborate on  : 
+    - Open source projects
+    - or Anything where contribution helps
+- 🤔 I’m looking for help with      :
+    - *Keeping for future*
+- 💬 Ask me about                   :
+    - C#.Net
+    - REST services
+    - Web Api
+- 📫 How to reach me               :
+    - [mbshambharkar@gmail.com](mailto:mbshambharkar@gmail.com)
+- ⚡ Fun fact:  
+    - *Keeping for future*
