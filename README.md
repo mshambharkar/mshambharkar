@@ -13,12 +13,10 @@ I am C#.Net developer
     - Open source projects
     - or Anything where contribution helps
 - 🤔 I’m looking for help with      :
-    - *Keeping for future*
+    - *TODO*
 - 💬 Ask me about                   :
     - C#.Net
     - REST services
     - Web Api
 - 📫 How to reach me               :
     - [mbshambharkar@gmail.com](mailto:mbshambharkar@gmail.com)
-- ⚡ Fun fact:  
-    - *Keeping for future*
